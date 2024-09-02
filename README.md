@@ -1,14 +1,10 @@
 <!-- Heading -->
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Vinayak Ichake <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<p align="center">
-  • <a href="https://vinayak-ichake.github.io" target="_blank">Website</a> •
-</p>
-
 <!-- About section -->
 
 ---
-✨ I'm a self-motivated guy who loves to explore and build something new. So far so good 😌
+✨ I'm a self-motivated guy who loves to explore and build something new. 😌
 
 <!-- code gif -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rudrabarad/Gifs/master/animated/Happy.gif" width="500" height="320" />
