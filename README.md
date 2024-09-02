@@ -15,11 +15,16 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-  🎓 Currently pursuing a Master's degree in Computer Science & Engineering at IIT Guwahati.<br>
-  💻 Experienced Software Engineer | Tech Enthusiast <br>
-  🚀 Specialized in building efficient software solutions, optimizing processes, and enhancing system throughput.<br>
-  🌱 Dedicated to continuous learning. <br>
-  📖 Interests include technical reading, 🎥 exploring cutting-edge media, 👨‍🎤 music, and 🏏 cricket.
+🎓 Pursuing a Master’s in Computer Science & Engineering at IIT Guwahati.
+
+💻 Software Engineer with a passion for technology.
+
+🚀 Focused on developing scalable, high-performance software.
+
+🌱 Always learning and exploring emerging technologies.
+
+📖 Enjoy reading, 🎥 watching films, 👨‍🎤 listening to music, and 🏏 playing cricket.
+
 </p>
 
 
