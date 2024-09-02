@@ -5,22 +5,23 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-<p align="center">
-  • <a href="https://vinyl5200.github.io" target="_blank">Website</a> •
-</p>
 
 <!-- About section -->
 ---
-✨ I'm a self-motivated guy who loves to explore and build something new. So far so good 😌
+✨ I'm a self-motivated guy who loves to explore and build something new.
 
 <!-- code gif -->
 <img align="right" alt="GIF" src="https://github.com/vinyl5200/vinyl5200/blob/master/code.gif" width="500" height="320" />
 
-- 🎓 Pursuing Masters in Computer Science & Engineering from IIT Guwahati.
-- 💻 Software Engineer | Tech Enthusiast
-- 🚀 Passionate about building scalable and efficient software solutions.
-- 🌱 Constantly learning and exploring new technologies.
-- 📖 Reading, 🎥 Movies, 👨‍🎤 Songs, 🏏 Cricket :)
+<h3 align="left">About Me:</h3>
+<p>
+  🎓 Currently pursuing a Master's degree in Computer Science & Engineering at IIT Guwahati.<br>
+  💻 Experienced Software Engineer with a strong focus on developing scalable and high-performance systems.<br>
+  🚀 Specialized in building efficient software solutions, optimizing processes, and enhancing system throughput.<br>
+  🌱 Dedicated to continuous learning and staying updated with the latest advancements in technology.<br>
+  📖 Interests include technical reading, 🎥 exploring cutting-edge media, 👨‍🎤 music, and 🏏 cricket.
+</p>
+
 
 <!-- About section: END -->
 
@@ -80,14 +81,6 @@
 </p>
 
 <!-- About Me -->
-<h3 align="left">About Me:</h3>
-<p>
-  🎓 Pursuing Masters in Computer Science & Engineering from IIT Guwahati.<br>
-  💻 Software Engineer | Tech Enthusiast<br>
-  🚀 Passionate about building scalable and efficient software solutions.<br>
-  🌱 Constantly learning and exploring new technologies.<br>
-  📖 Reading, 🎥 Movies, 👨‍🎤 Songs, 🏏 Cricket :)
-</p>
 
 <!-- Profile Views -->
 <p align="left">
