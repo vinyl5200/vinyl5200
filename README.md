@@ -15,9 +15,9 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-🎓 Pursuing a Master’s in Computer Science & Engineering at IIT Guwahati.
+🎓 Completed Master’s in Computer Science & Engineering at IIT Guwahati.
 
-💻 Software Engineer with a passion for technology.
+💻 Software Developement Engineer with a passion for technology.
 
 🚀 Focused on developing scalable, high-performance software.
 
